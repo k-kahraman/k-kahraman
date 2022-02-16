@@ -12,7 +12,7 @@ Junior Software Developer and Computer Engineering Student. More information can
 
 - Mainly focused on Back-End development with Spring Boot
 - Created CI/CD pipeline using various tools such as Jenkins, Docker, Kubernetes.
-- Developed and maintained Spring Boot server using monolithic architacture
+- Developed and maintained Spring Boot server using monolithic architecture
 - Integrated multiple services using different APIs (REST, GraphQL, SOAP)
 - Worked closely with Front-End department, and helped Front-End development in some cases
 - Developed an Object Detection model using TensorFlow 2, and created corresponding pipelines
