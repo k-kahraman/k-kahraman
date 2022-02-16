@@ -19,8 +19,8 @@ Junior Software Developer and Computer Engineering Student. More information can
 
 ## Skills
 
-Programming Languages and Technologies: `Spring Boot` `Java` `SQL` `MySQL` `HTML, CSS` `JavaScript` `Node.js` `React.js` `Express.js` `Git` `Maven` `Docker` `CI/CD`
-Languages: `English` `Chinese` `Turkish`
+- Programming Languages and Technologies: `Spring Boot` `Java` `SQL` `MySQL` `HTML, CSS` `JavaScript` `Node.js` `React.js` `Express.js` `Git` `Maven` `Docker` `CI/CD`
+- Languages: `English` `Chinese` `Turkish`
 
 ## Certificates and Achievements
 ### Certificates
