@@ -4,11 +4,19 @@ Junior Software Developer and Computer Engineering Student. More information can
 
 ## Work Experience
 
+### Scandiweb
+->_Riga, Latvia (Remote)_
+
+**Software Developer**
+->_June 2022 to Present_
+
+- Working on the [Oliver's Website](https://www.olivers.dk/)
+
 ### BeeVision
 ->_Ankara, Turkey_
 
 **Junior Software Developer**
-->_June 2021 to Present_
+->_June 2021 to June 2022_
 
 - Mainly focused on Back-End development with Spring Boot
 - Created CI/CD pipeline using various tools such as Jenkins, Docker, Kubernetes.
@@ -35,11 +43,11 @@ Junior Software Developer and Computer Engineering Student. More information can
 ## Education
 
 ### Baskent University
-->_2021 -  2024_, 3.6 GPA
+->_2020 -  2024_, 3.6 GPA
 **Computer Engineering**, _Ankara, Turkey_
 
 ### Hacettepe University
-->_2017 - 2021_, Left
+->_2017 - 2020_, Left
 **Chemical Engineering**,  _Ankara, Turkey_
 
 ---
