@@ -43,7 +43,7 @@ Junior Software Developer and Computer Engineering Student. More information can
 ## Education
 
 ### Baskent University
-->_2020 -  2024_, 3.6 GPA
+->_2020 -  2024_, 3.3 GPA
 **Computer Engineering**, _Ankara, Turkey_
 
 ### Hacettepe University
