@@ -1,56 +1,75 @@
+# 👋 Hi there, I'm Kaan Kahraman!
 
-# **Kaan Kahraman**
-Junior Software Developer and Computer Engineering Student. More information can be found on [my personal website](https://k-kahraman.github.io/)
+### 🌐 [Website](https://kaankahraman.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/kahraman-kaan) | 🐙 [GitHub](https://www.github.com/k-kahraman)
 
-## Work Experience
+----------
+
+## 🚀 About Me
+
+I'm a passionate software developer currently working at **Patika Global Technology** in the R&D Department. My work revolves around building scalable, efficient back-end solutions and exploring the cutting-edge realms of **Large Language Models (LLMs)** and **microservices**. I have a keen interest in **distributed systems** and a strong desire to continuously learn and innovate.
+
+----------
+
+## 💼 Experience
+
+### Patika Global Technology
+
+**Java Software Developer**  
+_Oct 2023 - Present_  
+🔧 Java | Spring Boot | Angular | Docker | AWS
+
+-   Creating scalable and efficient back-end solutions.
+-   Enhancing user experience through cohesive front-end collaboration.
+-   Implementing Agile methodologies and CI/CD pipelines.
+
+### Jotform
+
+**Back-End Developer Intern**  
+_Aug 2023 - Oct 2023_  
+🔧 PHP | React.js | MySQL | MVC | Git
+
+-   Ensured seamless data flow and compatibility between backend and user interfaces.
+-   Developed key backend features and maintained scalable infrastructures.
+-   Won the **Best Growth Project Award** for **Jotform Academy**.
 
 ### Scandiweb
-->_Riga, Latvia (Remote)_
 
-**Software Developer**
-->_June 2022 to Present_
+**Software Developer**  
+_Jun 2022 - Aug 2023_  
+🔧 React.js | PHP | Docker | MySQL | Git | Agile
 
-- Working on the [Oliver's Website](https://www.olivers.dk/)
+-   Developed and maintained eCommerce projects and applications.
+-   Contributed to the optimization of PWA functionalities.
+-   Developed custom Magento 2 modules for enhanced site functionality.
 
-### BeeVision
-->_Ankara, Turkey_
+----------
 
-**Junior Software Developer**
-->_June 2021 to June 2022_
+## 🌟 Skills
 
-- Mainly focused on Back-End development with Spring Boot
-- Created CI/CD pipeline using various tools such as Jenkins, Docker, Kubernetes.
-- Developed and maintained Spring Boot server using monolithic architecture
-- Integrated multiple services using different APIs (REST, GraphQL, SOAP)
-- Worked closely with Front-End department, and helped Front-End development in some cases
-- Developed an Object Detection model using TensorFlow 2, and created corresponding pipelines
+-   **Languages:** Java, JavaScript, PHP, SQL
+-   **Frameworks:** Spring Boot, React, Angular, Spring MVC
+-   **Tools & Technologies:** Docker, Git, AWS, Google Cloud Platform
+-   **Methodologies:** Agile, Scrum, Kanban, CI/CD
 
-## Skills
+----------
 
-- Programming Languages and Technologies: `Spring Boot` `Java` `SQL` `MySQL` `HTML, CSS` `JavaScript` `Node.js` `React.js` `Express.js` `Git` `Maven` `Docker` `CI/CD`
-- Languages: `English` `Chinese` `Turkish`
+## 🎓 Education
 
-## Certificates and Achievements
-### Certificates
-- [Udacity Java Nanodegree](https://graduation.udacity.com/confirm/EVHVHW5G)
-- [HackerRank Java Certificate](https://www.hackerrank.com/certificates/aed447ee7968)
-- [HackerRank SQL Certificate](https://www.hackerrank.com/certificates/8c0d4b651b6a)
-- [HackerRank SQL Intermediate Certificate](https://www.hackerrank.com/certificates/8c0d4b651b6a)
-### Achievements
-- World Rank 1 in Java
-- World Rank 1 in C
+**Baskent University**  
+_Bachelor's Degree in Computer Engineering_  
+_Sep 2020 - June 2024_
 
-## Education
+----------
 
-### Baskent University
-->_2020 -  2024_, 3.3 GPA
-**Computer Engineering**, _Ankara, Turkey_
+## 🏆 Awards & Certifications
 
-### Hacettepe University
-->_2017 - 2020_, Left
-**Chemical Engineering**,  _Ankara, Turkey_
+-   **World Rank 1** in Java and C - HackerRank
+-   **Best Growth Project Award** - Jotform
+-   **Java Programming Nanodegree** - Udacity
+-   **Java, React, SQL Certificates** - HackerRank
 
----
-## Contact
-##### Email: **<knkhrmn.developer@gmail.com>** || Phone: **+90 531 996 7632** || Website: **[https://k-kahraman.github.io](https://k-kahraman.github.io/) || Github: [k-kahraman](https://github.com/k-kahraman)**
+----------
 
+## 🌐 Let's Connect!
+
+Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/kahraman-kaan). Check out my projects and contributions on [GitHub](https://www.github.com/k-kahraman).
