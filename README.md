@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer currently working at **Patika Global Technology** in the R&D Department. My work revolves around building scalable, efficient back-end solutions and exploring the cutting-edge realms of **Large Language Models (LLMs)** and **microservices**. I have a keen interest in **distributed systems** and a strong desire to continuously learn and innovate.
+I'm a passionate software developer working at **Patika Global Technology** in the R&D Department. My work revolves around building scalable, efficient back-end solutions and exploring the cutting-edge realms of **Large Language Models (LLMs)** and **microservices**. I am keenly interested in **distributed systems** and strongly desire to learn and innovate continuously.
 
 ----------
 
@@ -14,8 +14,8 @@ I'm a passionate software developer currently working at **Patika Global Technol
 
 ### Patika Global Technology
 
-**Mid Level Software Engineer**
-_July 2024 - Present_
+**Mid-Level Software Engineer**  
+_July 2024 - Present_  
 🔧 Java | Spring Boot | Spring Cloud | LangChain
 
 -   Planning projects utilizing Large Language Models (LLM) and Artificial Intelligence to drive innovation and solve complex problems.
