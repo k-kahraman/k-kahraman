@@ -14,8 +14,17 @@ I'm a passionate software developer currently working at **Patika Global Technol
 
 ### Patika Global Technology
 
-**Java Software Developer**  
-_Oct 2023 - Present_  
+**Mid Level Software Engineer**
+_July 2024 - Present_
+🔧 Java | Spring Boot | Spring Cloud | LangChain
+
+-   Planning projects utilizing Large Language Models (LLM) and Artificial Intelligence to drive innovation and solve complex problems.
+-   Designing and implementing robust software solutions with a focus on modularity and scalability using NestJS and other cutting-edge technologies.
+-   Working closely with cross-functional teams to foster a culture of innovation and to translate research findings into actionable software solutions.
+-   Contributing to strategic decisions within the R&D department, aligning technology development with business goals to maximize impact.
+
+**Software Developer**  
+_Oct 2023 - July 2024_  
 🔧 Java | Spring Boot | Angular | Docker | AWS
 
 -   Creating scalable and efficient back-end solutions.
